@@ -10,5 +10,40 @@
 		<atom:link href="https://freddxworld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
+		<item>
+			<title>Welcome</title>
+			<link>https://freddxworld.github.io/posts/welcome/</link>
+			<pubDate>Sat, 15 Feb 2025 21:00:36 -0800</pubDate><guid>https://freddxworld.github.io/posts/welcome/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="welcome-to-digital-determination-">Welcome to <strong>Digital Determination</strong> 🚀<a href="#welcome-to-digital-determination-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>Hey there! I’m Alfredo, and this is <strong>Digital Determination</strong>—a space where I document my journey through <strong>tech, IT, and cybersecurity</strong> while navigating the challenges of life and personal growth.</p>
+<h2 id="-why-this-blog">💡 <strong>Why This Blog?</strong><a href="#-why-this-blog" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Over the years, I’ve explored various aspects of tech—from <strong>front-end development</strong> to <strong>Linux tinkering, home labs, and cybersecurity</strong>. As I continue learning and shifting toward IT and security, I realized I wanted a place to document my experiences, struggles, and wins.</p>
+<p>This blog is my way of keeping track of what I learn, sharing <strong>IT projects</strong>, and discussing the balance between <strong>tech, work, and personal life</strong>.</p>
+<h2 id="-what-you-can-expect">🛠 <strong>What You Can Expect</strong><a href="#-what-you-can-expect" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>✅ <strong>Tech &amp; IT Projects</strong> – Home labs, troubleshooting, cybersecurity insights<br>
+✅ <strong>The Learning Journey</strong> – Lessons from switching career paths, imposter syndrome, and perseverance<br>
+✅ <strong>Balancing Life &amp; Tech</strong> – Juggling work, study, fitness, and personal goals</p>
+<h2 id="-lets-push-forward-together">🔥 <strong>Let’s Push Forward Together</strong><a href="#-lets-push-forward-together" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>I believe <strong>growth happens through challenges</strong>—whether it’s troubleshooting a broken setup, pushing through a tough run, or staying consistent in learning.</p>
+<p>If you&rsquo;re into <strong>tech, IT, and cybersecurity</strong>, or just trying to navigate your own journey with determination, I hope this blog brings value to you. Thanks for stopping by, and let’s keep moving forward! 🚀</p>
+]]></content>
+		</item>
+		
 	</channel>
 </rss>
